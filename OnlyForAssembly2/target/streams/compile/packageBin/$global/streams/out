@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /Users/myousuff/Documents/OnlyForAssembly/target/scala-2.10/onlyforassembly_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/thybu[0m
+[0m[[0mdebug[0m] [0m	  /Users/myousuff/Documents/OnlyForAssembly/target/scala-2.10/classes/com/thybu[0m
+[0m[[0mdebug[0m] [0m	FirstAssmbly$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/myousuff/Documents/OnlyForAssembly/target/scala-2.10/classes/FirstAssmbly$.class[0m
+[0m[[0mdebug[0m] [0m	com/thybu/test/PropertiesTest.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/myousuff/Documents/OnlyForAssembly/target/scala-2.10/classes/com/thybu/test/PropertiesTest.class[0m
+[0m[[0mdebug[0m] [0m	com/thybu/test/PropertiesTest$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/myousuff/Documents/OnlyForAssembly/target/scala-2.10/classes/com/thybu/test/PropertiesTest$.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /Users/myousuff/Documents/OnlyForAssembly/target/scala-2.10/classes/com[0m
+[0m[[0mdebug[0m] [0m	FirstAssmbly.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/myousuff/Documents/OnlyForAssembly/target/scala-2.10/classes/FirstAssmbly.class[0m
+[0m[[0mdebug[0m] [0m	com/thybu/test[0m
+[0m[[0mdebug[0m] [0m	  /Users/myousuff/Documents/OnlyForAssembly/target/scala-2.10/classes/com/thybu/test[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
