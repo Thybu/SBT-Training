@@ -6,7 +6,7 @@ import sbtassembly.{MergeStrategy, PathList}
 
 name := "OnlyForAssembly"
 
-version := "1.0"
+version := "0.13.6"
 
 scalaVersion := "2.10.5"
 
@@ -29,6 +29,7 @@ def projectTemplate(projectName: String): Project = Project(projectName, file(pr
     test in assembly := {},
     parallelExecution in test := false,
     concurrentRestrictions in Global += Tags.limit(Tags.Test, 1),
+    assemblyJarName in assembly := s"$projectName-v${Release.assemblyVersion(version.value, git.gitHeadCommit.value)}.jar",
 libraryDependencies ++= Seq(
   "com.typesafe" % "config" % "1.3.0",
   "org.apache.spark" %% "spark-core" % "1.6.0" % "provided",
