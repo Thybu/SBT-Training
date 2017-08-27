@@ -1,0 +1,27 @@
+sbt test
+test
+sbt test-only com.thybu.test.PropertiesTest
+test-only com.thybu.test.PropertiesTest
+'test-only com.thybu.test.PropertiesTest'
+test-only com.thybu.test.PropertiesTest
+test
+console
+compile
+test
+test-only TestOnlyTest1
+sbt assembly
+assembly
+exit;
+exit
+assembly
+-testquick
+clean
+exit
+compile
+test
+sbt console
+console
+run FirstAssmbly
+package
+exit;
+exit
