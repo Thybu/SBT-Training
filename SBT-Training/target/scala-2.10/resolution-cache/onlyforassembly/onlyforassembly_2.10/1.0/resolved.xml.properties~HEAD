@@ -1,0 +1,4 @@
+#onlyforassembly#onlyforassembly_2.10;1.0 resolved revisions
+#Tue Sep 05 14:25:52 CEST 2017
++organisation\:\#@\#\:+org.scala-lang\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+scala-library\:\#@\#\:+revision\:\#@\#\:+2.10.5\:\#@\#\:=2.10.5 ? 2.10.5 null
++organisation\:\#@\#\:+org.scala-lang\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+scala-compiler\:\#@\#\:+revision\:\#@\#\:+2.10.5\:\#@\#\:=2.10.5 release 2.10.5 null
