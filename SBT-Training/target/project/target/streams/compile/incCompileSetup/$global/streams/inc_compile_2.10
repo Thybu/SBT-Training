@@ -1,0 +1,407 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1$$anonfun$apply$1.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1$$anonfun$apply$2.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID$.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$1.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$2.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$3.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$runCrossBuild$1$$anonfun$4.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$runCrossBuild$1$$anonfun$apply$1.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$runCrossBuild$1$$anonfun$apply$2.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$runCrossBuild$1.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$switchScalaVersion$1.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$assembleJar$1.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$crossAssembly$1.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$.class
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release.class
+binary dependencies:
+14 items
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.16.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.16.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> /Users/myousuff/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.16.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.16.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.16.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.16.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.16.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.16.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.14.3.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.ivy2/cache/scala_2.10/sbt_0.13/com.github.gseitz/sbt-release/jars/sbt-release-1.0.3.jar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /Users/myousuff/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+19 items
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> BuildUtil
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> BuildUtil$
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> BuildUtil$EnhancedModuleID
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> BuildUtil$EnhancedModuleID$
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1$$anonfun$apply$1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1$$anonfun$apply$2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$3
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$Release$$runCrossBuild$1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$Release$$runCrossBuild$1$$anonfun$4
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$Release$$runCrossBuild$1$$anonfun$apply$1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$Release$$runCrossBuild$1$$anonfun$apply$2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$Release$$switchScalaVersion$1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$assembleJar$1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release$$anonfun$crossAssembly$1
+used names:
+241 items
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> !=
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> $this
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> &&
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> <:<
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> <byname>
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> <init>
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> <repeated>
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> ==
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> A
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Any
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> AnyRef
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> AnyVal
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> B
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Boolean
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Build
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> BuildUtil
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> EnhancedModuleID
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> ExclusionRule
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Function1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Function2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> GenTraversableOnce
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Int
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> List
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> ModuleID
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> None
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Nothing
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Object
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Option
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Predef
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Regex
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Seq
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Set
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Some
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> String
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> StringContext
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> StringOps
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> T0
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> T1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> T2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Try
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> Tuple2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> VersionRegex
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> _1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> _2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> _root_
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> apply
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> asInstanceOf
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> augmentString
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> collection
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> commonsLogging
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> conforms
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> exclude
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> exclude$extension
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> excludeAll
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> flatten
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> foldLeft
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> get
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> getOrElse
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> isEmpty
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> isInstanceOf
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> jLogs
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> javaxServlet
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> lengthCompare
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> m
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> map
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> module
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> name
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> orgAndName
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> orgAndNames
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> package
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> r
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> s
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> sbt
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> scala
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> toSet
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> unapplySeq
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> unary_!
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> util
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> v
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> version
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> x
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> +
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> ++
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> /:
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> ::
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> :=
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> <byname>
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> <init>
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> <refinement>
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> <repeated>
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> A
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Any
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> AnyRef
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> AssemblyKeys
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> B
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Boolean
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> BuildStructure
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> CanBuildFrom
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Coll
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Cross
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Def
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Extracted
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> File
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Function0
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Function1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Function2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> GenTraversableOnce
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Git
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> GlobalScope
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> HashSize
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Initialize
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> InitializeInstance
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Int
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Keys
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> LinePosition
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> List
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Load
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Logger
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> MatchError
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Nil
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> None
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Nothing
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Object
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Option
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Predef
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Project
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> ProjectRef
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Reference
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Release
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> ReleasePlugin
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> ReleaseStateTransformations
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> ReleaseStep
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Scope
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> ScopedKey
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Seq
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Serializable
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> SessionSettings
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Setting
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> SettingKey
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Settings
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Show
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Some
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> SourcePosition
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> State
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> StateOps
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> String
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> StringContext
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> StringOps
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> T
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> T0
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> T1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> T2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> TaskKey
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> That
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Tuple2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> Unit
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> _$1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> _$11
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> _$12
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> _$3
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> _$4
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> _1
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> _2
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> _root_
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> action
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> add
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> apply
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> asInstanceOf
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> assembleJar
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> assembly
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> augmentString
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> autoImport
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> canBuildFrom
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> checkSnapshotDependencies
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> cleared
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> collection
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> commitNextVersion
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> commitReleaseVersion
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> crossAssembly
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> crossBuild
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> crossExclude
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> crossVersions
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> current
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> currentRef
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> customReleaseSteps
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> data
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> endsWith
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> extract
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> extracted
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> filterNot
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> finalS
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> func
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> get
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> getOrElse
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> hash
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> headCommit
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> immutable
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> in
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> info
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> inquireVersions
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> isInstanceOf
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> log
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> map
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> mergeSettings
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> ne
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> newState
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> newStructure
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> package
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> pure
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> pushChanges
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> reapply
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> releaseCrossBuild
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> runClean
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> runCrossBuild
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> runTask
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> runTest
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> s
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> sbt
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> sbtassembly
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> sbtrelease
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> scala
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> scalaHome
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> scalaVersion
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> session
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> set
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> setNextVersion
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> setProject
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> setReleaseVersion
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> showKey
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> st
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> state
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> stateOps
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> structure
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> switchScalaVersion
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> tagRelease
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> take
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> unchecked
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> v
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> version
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> versions
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> x
+product stamps:
+19 items
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$.class -> lastModified(1504615633000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1$$anonfun$apply$1.class -> lastModified(1504615633000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1$$anonfun$apply$2.class -> lastModified(1504615633000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID$$anonfun$exclude$extension$1.class -> lastModified(1504615633000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID$.class -> lastModified(1504615633000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil$EnhancedModuleID.class -> lastModified(1504615633000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/BuildUtil.class -> lastModified(1504615632000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$1.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$2.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$3.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$runCrossBuild$1$$anonfun$4.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$runCrossBuild$1$$anonfun$apply$1.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$runCrossBuild$1$$anonfun$apply$2.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$runCrossBuild$1.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$Release$$switchScalaVersion$1.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$assembleJar$1.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$$anonfun$crossAssembly$1.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release$.class -> lastModified(1504615293000)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/target/scala-2.10/sbt-0.13/classes/Release.class -> lastModified(1504615293000)
+source stamps:
+2 items
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> hash(4da94db2336577a7c22cda9334b615263ce0134b)
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> hash(eb87d48292396fb0ef6d249178dda468fc6839b4)
+binary stamps:
+11 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/myousuff/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.16.jar -> lastModified(1501102535000)
+/Users/myousuff/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.16.jar -> lastModified(1501102687000)
+/Users/myousuff/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.16.jar -> lastModified(1501102673000)
+/Users/myousuff/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.16.jar -> lastModified(1501102601000)
+/Users/myousuff/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.16.jar -> lastModified(1501102724000)
+/Users/myousuff/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.16.jar -> lastModified(1501102740000)
+/Users/myousuff/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.16.jar -> lastModified(1501102770000)
+/Users/myousuff/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.14.3.jar -> lastModified(1460035062000)
+/Users/myousuff/.ivy2/cache/scala_2.10/sbt_0.13/com.github.gseitz/sbt-release/jars/sbt-release-1.0.3.jar -> lastModified(1456288850000)
+/Users/myousuff/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+class names:
+11 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/myousuff/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.16.jar -> sbt.LinePosition$
+/Users/myousuff/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.16.jar -> sbt.State
+/Users/myousuff/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.16.jar -> sbt.ExclusionRule$
+/Users/myousuff/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.16.jar -> sbt.Logger
+/Users/myousuff/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.16.jar -> sbt.Reference
+/Users/myousuff/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.16.jar -> sbt.Build
+/Users/myousuff/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.16.jar -> sbt.package$
+/Users/myousuff/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.14.3.jar -> sbtassembly.AssemblyKeys$
+/Users/myousuff/.ivy2/cache/scala_2.10/sbt_0.13/com.github.gseitz/sbt-release/jars/sbt-release-1.0.3.jar -> sbtrelease.ReleasePlugin$
+/Users/myousuff/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.AnyVal
+internal apis:
+2 items
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw5yqJcgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAFzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCDnTUbdAAQRW5oYW5jZWRNb2R1bGVJRHVxAH4ACQAAACZzcQB+AAs1frkJdAAGbm90aWZ5c3EAfgALfn2MO3QAEWV4Y2x1ZGUkZXh0ZW5zaW9uc3EAfgALJMSGG3QABHdhaXRzcQB+AAvgQP3kdAANJGFzSW5zdGFuY2VPZnNxAH4ACy3UAdl0AAxidWlsZExvYWRlcnNzcQB+AAt6bRwMdAAGZXF1YWxzc3EAfgALzl5s8HQADGFzSW5zdGFuY2VPZnNxAH4ACwbVW2R0ABJwcm9qZWN0RGVmaW5pdGlvbnNzcQB+AAuIiJ08dAAMc3luY2hyb25pemVkc3EAfgAL4Nvef3QADSRpc0luc3RhbmNlT2ZzcQB+AAuFnXMtdAAMVmVyc2lvblJlZ2V4c3EAfgAL0ryNbHQAAW1zcQB+AAtYYdoJdAAJbm90aWZ5QWxsc3EAfgALu5nmdHQAC3Jvb3RQcm9qZWN0c3EAfgALcjOkvnQADGlzSW5zdGFuY2VPZnNxAH4ACyRpAD50AAY8aW5pdD5zcQB+AAsxGpWTdAAOdmVyc2lvbkZyb21UYWdzcQB+AAsGbXxVdAACPT1zcQB+AAu28dmudAAJQnVpbGRVdGlsc3EAfgALtmxauHQABWNsb25lc3EAfgALP27OUXQAEGVxdWFscyRleHRlbnNpb25zcQB+AAu+e8nRdAAGJGluaXQkc3EAfgALuyxklHQADmNvbW1vbnNMb2dnaW5nc3EAfgALfuzqiHQABWpMb2dzc3EAfgALDc9g93QACHRvU3RyaW5nc3EAfgALPKnheXQAB2V4Y2x1ZGVzcQB+AAvog6kkdAACIT1zcQB+AAtWwBapdAAIcHJvamVjdHNzcQB+AAvBxBzNdAAIZ2V0Q2xhc3NzcQB+AAv/p1+zdAACbmVzcQB+AAuBc0M1dAASaGFzaENvZGUkZXh0ZW5zaW9uc3EAfgAL9Wu9kXQAAmVxc3EAfgALzrJvRnQAEEVuaGFuY2VkTW9kdWxlSURzcQB+AAuM5ieSdAAMamF2YXhTZXJ2bGV0c3EAfgALeAyWw3QACHNldHRpbmdzc3EAfgALx6dv0HQAAiMjc3EAfgALRwvYMHQACGZpbmFsaXplc3EAfgALRQd1ZXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgA1dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB8c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AgXNxAH4AfHVxAH4AYAAAAABzcQB+AHx1cQB+AGAAAAAAc3EAfgB8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCAdAAFQnVpbGRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA3NidHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgCNdAAGT2JqZWN0c3EAfgCRc3EAfgCUdXEAfgCXAAAAA3NxAH4AmXQABGphdmFzcQB+AJl0AARsYW5ncQB+AJ5zcQB+AI10AANBbnlzcQB+AJFzcQB+AJR1cQB+AJcAAAACc3EAfgCZdAAFc2NhbGFxAH4AnnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFeUhREhHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AGMvVXNlcnMvbXlvdXN1ZmYvRG9jdW1lbnRzL1NCVC1HSVQtRmluYWwvU0JULVRyYWluaW5nLU9MRC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRNqU2yM2V3p8Is2pM0thUmPOATSw==
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwaTeqMAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwnyWjK3QABm5vdGlmeXNxAH4ADIYFJcN0AAR3YWl0c3EAfgAMVnd1xHQADSRhc0luc3RhbmNlT2ZzcQB+AAyacqwhdAAGZXF1YWxzc3EAfgAMPIatZHQADGFzSW5zdGFuY2VPZnNxAH4ADFSbYOF0AAdSZWxlYXNlc3EAfgAMMN/TM3QADHN5bmNocm9uaXplZHNxAH4ADIQrpLR0AA0kaXNJbnN0YW5jZU9mc3EAfgAMgOJwRXQAD2Fzc2VtYmx5VmVyc2lvbnNxAH4ADPMDdZ90AAlub3RpZnlBbGxzcQB+AAw1X0iidAANY3Jvc3NBc3NlbWJseXNxAH4ADDWjfxB0AAxpc0luc3RhbmNlT2ZzcQB+AAy9EHXodAACPT1zcQB+AAzrr654dAAFY2xvbmVzcQB+AAyIpiZIdAASY3VzdG9tUmVsZWFzZVN0ZXBzc3EAfgAM9qSJ93QACHRvU3RyaW5nc3EAfgAM3IoqknQAAiE9c3EAfgAMt5NCKXQACGdldENsYXNzc3EAfgAMc7a60HQAC2Fzc2VtYmxlSmFyc3EAfgAMEZw6wXQAAm5lc3EAfgAMXAepsnQAAmVxc3EAfgAMUBC4enQACEhhc2hTaXplc3EAfgAMy2PUWHQAAiMjc3EAfgAMGdj2KnQACGZpbmFsaXplc3EAfgAM7KL4u3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAZdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AZXNxAH4AYHVxAH4ARAAAAABzcQB+AGB1cQB+AEQAAAAAc3EAfgBgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBkdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBkc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB9dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB+c3EAfgBxdAADQW55c3EAfgB1c3EAfgB4dXEAfgB7AAAAAnNxAH4AfXQABXNjYWxhcQB+AIR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXlIOXIl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABjL1VzZXJzL215b3VzdWZmL0RvY3VtZW50cy9TQlQtR0lULUZpbmFsL1NCVC1UcmFpbmluZy1PTEQvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU64fUgpI5b7DvbSSReN2kaPxoObQ=
+external apis:
+0 items
+source infos:
+2 items
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/BuildUtil.scala -> 
+AAAAAQAAAQAAAAQAIG9iamVjdCBCdWlsZFV0aWwgZXh0ZW5kcyBCdWlsZCB7AQAAAD0BAAAAGQEAGSAgICAgICAgICAgICAgICAgICAgICAgICABAFAvVXNlcnMvbXlvdXN1ZmYvRG9jdW1lbnRzL1NCVC1HSVQtRmluYWwvU0JULVRyYWluaW5nLU9MRC9wcm9qZWN0L0J1aWxkVXRpbC5zY2FsYQEAUC9Vc2Vycy9teW91c3VmZi9Eb2N1bWVudHMvU0JULUdJVC1GaW5hbC9TQlQtVHJhaW5pbmctT0xEL3Byb2plY3QvQnVpbGRVdGlsLnNjYWxhAEF0cmFpdCBCdWlsZCBpbiBwYWNrYWdlIHNidCBpcyBkZXByZWNhdGVkOiBVc2UgLnNidCBmb3JtYXQgaW5zdGVhZAEAAAAA
+/Users/myousuff/Documents/SBT-GIT-Final/SBT-Training-OLD/project/Release.scala -> 
+AAAAAQAAAQAAAB8ARSAgICB2YWwgY2xlYXJlZCA9IHNlc3Npb24ubWVyZ2VTZXR0aW5ncy5maWx0ZXJOb3QoQ3Jvc3MuY3Jvc3NFeGNsdWRlKQEAAAQJAQAAADgBADggICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEATi9Vc2Vycy9teW91c3VmZi9Eb2N1bWVudHMvU0JULUdJVC1GaW5hbC9TQlQtVHJhaW5pbmctT0xEL3Byb2plY3QvUmVsZWFzZS5zY2FsYQEATi9Vc2Vycy9teW91c3VmZi9Eb2N1bWVudHMvU0JULUdJVC1GaW5hbC9TQlQtVHJhaW5pbmctT0xEL3Byb2plY3QvUmVsZWFzZS5zY2FsYQBCbWV0aG9kIGNyb3NzRXhjbHVkZSBpbiBvYmplY3QgQ3Jvc3MgaXMgZGVwcmVjYXRlZDogTm8gbG9uZ2VyIHVzZWQuAQAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXlIOXIl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9teW91c3VmZi9Eb2N1bWVudHMvU0JULUdJVC1GaW5hbC9TQlQtVHJhaW5pbmctT0xEL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXlIURIR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYy9Vc2Vycy9teW91c3VmZi9Eb2N1bWVudHMvU0JULUdJVC1GaW5hbC9TQlQtVHJhaW5pbmctT0xEL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS8=

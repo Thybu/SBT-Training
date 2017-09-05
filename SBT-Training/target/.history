@@ -1,0 +1,9 @@
+project
+project: OnlyForAssembly
+project OnlyForAssembly
+exit
+test
+exit
+project:OnlyForAssembly
+;project:OnlyForAssembly
+project OnlyForAssembly
