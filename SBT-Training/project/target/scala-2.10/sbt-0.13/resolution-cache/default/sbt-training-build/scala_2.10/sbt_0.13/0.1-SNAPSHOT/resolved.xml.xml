@@ -4,11 +4,7 @@
 		module="sbt-training-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-<<<<<<< HEAD
-		publication="20170825185203"
-=======
-		publication="20170827090146"
->>>>>>> bfb1a571dfdec1d9a6f2b2e3e0124b369b7e34a4
+		publication="20170905155108"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
@@ -41,11 +37,7 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.10.6" conf="scala-tool->default,optional(default);provided->default(compile)"/>
 		<dependency org="org.scala-sbt" name="sbt" rev="0.13.16" conf="provided->default(compile)"/>
 		<dependency org="com.eed3si9n" name="sbt-assembly" rev="0.14.3" conf="compile->default(compile)" e:sbtVersion="0.13" e:scalaVersion="2.10"/>
-<<<<<<< HEAD
-		<dependency org="com.github.gseitz" name="sbt-release" rev="1.0.6" conf="compile->default(compile)" e:sbtVersion="0.13" e:scalaVersion="2.10"/>
-=======
-		<dependency org="com.github.gseitz" name="sbt-release" rev="1.0.0" conf="compile->default(compile)" e:sbtVersion="0.13" e:scalaVersion="2.10"/>
->>>>>>> bfb1a571dfdec1d9a6f2b2e3e0124b369b7e34a4
+		<dependency org="com.github.gseitz" name="sbt-release" rev="1.0.3" conf="compile->default(compile)" e:sbtVersion="0.13" e:scalaVersion="2.10"/>
 		<dependency org="com.typesafe.sbt" name="sbt-git" rev="0.9.3" conf="compile->default(compile)" e:sbtVersion="0.13" e:scalaVersion="2.10"/>
 		<dependency org="com.eed3si9n" name="sbt-buildinfo" rev="0.7.0" conf="compile->default(compile)" e:sbtVersion="0.13" e:scalaVersion="2.10"/>
 	</dependencies>
